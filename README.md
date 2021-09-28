@@ -1,15 +1,14 @@
 # Stock-Dynamics-Analysis
-A stock market is where buyers and sellers trade shares of a company, and is one of the most popular ways for individuals and companies to invest money. The size of the world stock market is now estimated to be in the trillions. The largest stock market in the world is the New York Stock Exchange (NYSE), located in New York City. About 2,800 companies were listed on the NSYE at the time time of this data xtarcted. In this problem, we'll look at the monthly stock prices of five of these companies: IBM, General Electric (GE), Procter and Gamble, Coca Cola, and Boeinga and create someisngiths and studies out of it with analysis and visualization
+A stock market is where buyers and sellers trade shares of a company, and is one of the most popular ways for individuals and companies to invest money. The size of the world stock market is now estimated to be in the trillions. The largest stock market in the world is the New York Stock Exchange (NYSE), located in New York City. About 2,800 companies were listed on the NSYE at the time this data was extracted. In this problem, we'll look at the monthly stock prices of five of these companies: IBM, General Electric (GE), Procter and Gamble, Coca Cola, and Boeing, and create some insights and studies out of it with analysis and visualization
 
 
 ### Agenda:
-    
+    
 - Load, observe, summarise the data sets
-- Changing date formats compatible to pandas, and extract Date and years columns
-- Analyse Stock price of each Company on plot chart.
-- Observe trends of stiock prices  from 1970 tO 201o.
+- Analyse the stock price of each Company on a plot chart.
+- Observe trends of stock prices from 1970 tO 201o.
 - Comparison of one company's stock price to the other.
-- Impact of 2000 Global Technogy buuuble in the stock price of each of five company
+- Impact of 2000 Global Technology bubble in the stock price of each of five company
 - Impact of 1997 Asian Economy Mini Crash Ton the stock price of each of five company
 
 ### Libraries 
