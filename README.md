@@ -6,7 +6,7 @@ A stock market is where buyers and sellers trade shares of a company, and is one
     
 - Load, observe, summarise the data sets
 - Changing date formats compatible to pandas, and extract Date and years columns
-- Analyse price of each Company on plot chart.
+- Analyse Stack price of each Company on plot chart.
 - Observe trends of stiock prices  from 1970 tO 201o.
 - Comparison of one company's stock price to the other.
 - Impact of 2000 Global Technogy buuuble in the stock price of each of five company
