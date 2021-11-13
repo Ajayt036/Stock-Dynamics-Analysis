@@ -8,8 +8,8 @@ A stock market is where buyers and sellers trade shares of a company, and is one
 - Analyse the stock price of each Company on a plot chart.
 - Observe trends of stock prices from 1970 to 2010.
 - Comparison of one company's stock price to the other.
-- Impact of 2000 Global Technology bubble in the stock price of each of five company
-- Impact of 1997 Asian Economy Mini Crash Ton the stock price of each of five company
+- Impact of 2000 Global Technology bubble in the stock price of each of five ccompanies
+- Impact of 1997 Asian Economy Mini Crash Ton the stock price of each of five ccompanies
 
 ### Libraries 
 Installing all required libraries to be used in our analysis and visulization.
