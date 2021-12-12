@@ -2,8 +2,7 @@
 A stock market is where buyers and sellers trade shares of a company, and is one of the most popular ways for individuals and companies to invest money. The size of the world stock market is now estimated to be in the trillions. The largest stock market in the world is the New York Stock Exchange (NYSE), located in New York City. About 2,800 companies were listed on the NSYE at the time this data was extracted. In this problem, we'll look at the monthly stock prices of five of these companies: IBM, General Electric (GE), Procter and Gamble, Coca Cola, and Boeing, and create some insights and studies out of it with analysis and visualization
 
 
-### Agenda:
-    
+### Agenda:  
 - Load, observe, summarise the data sets
 - Analyse the stock price of each Company on a plot chart.
 - Observe trends of stock prices from 1970 to 2010.
